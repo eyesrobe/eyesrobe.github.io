@@ -12,6 +12,7 @@ Raspberry PiのGPIOをブラウザから操作できるようにするという�
 
 
 作業内容
+
 Raspberry PiにWiringPiをインストール
 
 + gitバージョンを確認
