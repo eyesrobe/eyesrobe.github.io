@@ -3,7 +3,7 @@ layout: post
 title: Raspberry Pi + WiringPi
 ---
 
-* インストール
+* WiringPi インストール
 
 
 ```
