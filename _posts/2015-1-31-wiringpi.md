@@ -5,6 +5,11 @@ title: Raspberry Pi + WiringPi
 
 * WiringPi インストール
 
+内容
+- gitバージョンを確認
+- WiringPiをインストール
+- WiringPiがインストールできたのを確認
+- GPIOの状態を確認
 
 ```
 
