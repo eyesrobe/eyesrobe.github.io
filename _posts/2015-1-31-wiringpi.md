@@ -38,7 +38,8 @@ gpio version: 2.22
 
 $
 $ gpio readall
-$
+
+
 
 
 ```
