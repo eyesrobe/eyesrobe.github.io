@@ -5,7 +5,7 @@ title: Raspberry Pi + WiringPi
 
 * WiringPi インストール
 
-内容
+作業内容
 
 + gitバージョンを確認
 + WiringPiをインストール
