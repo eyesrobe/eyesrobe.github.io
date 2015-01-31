@@ -12,6 +12,7 @@ title: Raspberry Pi + WiringPi
 + WiringPiがインストールできたのを確認
 + GPIOの状態を確認
 
+
 ```
 
 $
