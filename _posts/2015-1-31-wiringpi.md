@@ -4,7 +4,7 @@ title: Raspberry Pi + WiringPi
 ---
 Raspberry PiのGPIOをブラウザから操作できるようにするという目的のために。
 
-1. Raspberry PiにWiringPiをインストール
+1. __Raspberry PiにWiringPiをインストール（今回）__
 2. Raspberry PiにWiringPi2 for Pythonをインストール
 3. sudoなしでPythonでGPIOを制御
 
