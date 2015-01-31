@@ -3,7 +3,7 @@ layout: post
 title: はじめての投稿
 ---
 
-*** 見出し
+* 見出し
 あいうえお
 
 ```python:hoge.py
