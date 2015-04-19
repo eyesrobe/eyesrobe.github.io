@@ -9,7 +9,7 @@ iOSアプリ作ってます。
 # アプリ
 
 * gFFutt
-* Moneyha2
+* [Moneyha2](../moneyha2/)
 * Moneyha
 
 
