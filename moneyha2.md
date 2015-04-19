@@ -1,13 +1,12 @@
 ---
 layout: homepage
-title: Moneyha2
+title: Moneyha2のご紹介
 permalink: /moneyha2/
 ---
 
-# Moneyha2のご紹介
+**ご好評いただいているMoneyhaの後継アプリです。**
 
-ご好評いただいているMoneyhaの後継アプリです。
-Moneyhaは支出管理のみでしたが、Moneyha2になり収支管理を行えるようになりました。
+**Moneyhaは支出管理のみでしたが、Moneyha2になり収支管理を行えるようになりました。**
 
 # 特徴1（他の類似アプリにあってMoneyha2にないもの）
 
