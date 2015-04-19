@@ -128,7 +128,3 @@ Moneyha2では資産管理も予算管理もできないので家計簿として
 "みずお銀行 宝くじ 300000000"
 "現金 お小遣い 25000"
 "現金 へそくり 5000"
-
-### Contact me
-
-[eyesrobe@gmail.com](mailto:eyesrobe@gmail.com)
