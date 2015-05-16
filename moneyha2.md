@@ -36,7 +36,13 @@ permalink: /moneyha2/
 
 # スクリーンショット
 
-![img001](../images/moneyha2-000.png)
+![img000](../images/moneyha2-000.png)
+![img001](../images/moneyha2-001.png)
+![img002](../images/moneyha2-002.png)
+![img100](../images/moneyha2-100.png)
+![img101](../images/moneyha2-101.png)
+
+
 ------------------------------------
 
 # 使い方
