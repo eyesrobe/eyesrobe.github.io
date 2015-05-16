@@ -36,7 +36,7 @@ permalink: /moneyha2/
 
 # スクリーンショット
 
-![img001](moneyha2-000.png)
+![img001](../images/moneyha2-000.png)
 ------------------------------------
 
 # 使い方
