@@ -41,7 +41,7 @@ permalink: /moneyha2/
 ![img002](../images/moneyha2-002.png)
 
 
-# スクリーンショット （Apple Watch にも対応してみました。
+# スクリーンショット （Apple Watch）
 
 ![img100](../images/moneyha2-100.png)
 ![img101](../images/moneyha2-101.png)
