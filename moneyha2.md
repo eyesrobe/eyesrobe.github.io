@@ -10,8 +10,8 @@ permalink: /moneyha2/
 
 <a href="https://geo.itunes.apple.com/jp/app/moneyha2/id993435862?mt=8&uo=6" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.png) no-repeat;width:165px;height:40px;@media only screen{background-image:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg);}"></a>
 
-![appstore](../images/badge_appstore-lrg.png)
-[appstore]: https://itunes.apple.com/jp/app/moneyha2/id993435862?mt=8&ls=1
+![appstore](https://itunes.apple.com/jp/app/moneyha2/id993435862?mt=8&ls=1)
+[appstore]: ../images/badge_appstore-lrg.png
 
 # 特徴1
 
