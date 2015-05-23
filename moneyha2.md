@@ -8,6 +8,11 @@ permalink: /moneyha2/
 ご好評いただいている **Moneyha** の後継アプリになります。  
 **Moneyha** は支出管理のみでしたが、**Moneyha2** になり収支管理を行えるようになりました。
 
+<a href="https://geo.itunes.apple.com/jp/app/moneyha2/id993435862?mt=8&uo=6" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.png) no-repeat;width:165px;height:40px;@media only screen{background-image:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg);}"></a>
+
+![appstore](../images/badge_appstore-lrg.png)
+[appstore]: https://itunes.apple.com/jp/app/moneyha2/id993435862?mt=8&ls=1
+
 # 特徴1
 
 他の類似アプリにあって、**Moneyha2** にはない機能が沢山あります。  
