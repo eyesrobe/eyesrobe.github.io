@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Macbook Pro 13 (late2016)
-permalink: ;macbook113late2016/
+permalink: /macbook113late2016/
 ---
 
 # Macbook Pro 13インチ (Late2016) を買いました。
