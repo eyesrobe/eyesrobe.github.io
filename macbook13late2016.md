@@ -1,20 +1,16 @@
 ---
-layout: homepage
-title: Macbook Pro 13 (late2016)
+layout: page
+title: Macbook Pro 13 (Late2016)を買いました
 permalink: /macbook113late2016/
 ---
+# 合計 268,596円（税込）
 
-# Macbook Pro 13インチ (Late2016) を買いました。
-
-* 218,800円（税別）
+* 本体 218,800円（税別）
 
 ## 本体以外に一緒に買ったもの
 * AppleCare Protection Plan 23,800円
 * USB-C - USBアダプタ 900円（セール価格）
 * USB-C Digital AV Multiportアダプタ 5,200円（セール価格）
-
-## 合計 268,596円（税込）
-
 
 # スペック
 
