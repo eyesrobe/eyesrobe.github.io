@@ -5,6 +5,7 @@ permalink: /macbook113late2016/
 ---
 ## 合計 268,596円（税込）
 
+本体とAppleCareとアダプタ2種の合計です。
 発表後1ヶ月くらいたってから展示されたTouchBarありの実機をヨドバシで確認してから注文。注文から1ヶ月弱、2016年12月16日に到着しました。
 
 * 本体 218,800円（税別）
@@ -13,6 +14,13 @@ permalink: /macbook113late2016/
 * AppleCare Protection Plan 23,800円
 * USB-C - USBアダプタ 900円（セール価格）
 * USB-C Digital AV Multiportアダプタ 5,200円（セール価格）
+
+### アマゾンなどで買ったもの
+* SDカードリーダー 1,000円ぐらい（あきばお〜で購入）
+* Satechi USB TypeC3.1外付けHDDケース 4,123円（Amazon）
+* → http://amzn.to/2hJHWbw
+* SSD 750GB Crucial MX300 18,458（Amazon）
+* → http://amzn.to/2gVXDOg
 
 ## スペック
 
