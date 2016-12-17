@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: simple
 title: Macbook Pro 13 (Late2016)を買いました
 permalink: /macbook113late2016/
 ---
 ## 合計 268,596円（税込）
+
+発表後1ヶ月くらいたってから展示されたTouchBarありの実機をヨドバシで確認してから注文。注文から1ヶ月弱、2016年12月16日に到着しました。
 
 * 本体 218,800円（税別）
 
