@@ -1,7 +1,7 @@
 ---
 layout: simple
 title: Macbook Pro 13 (Late2016)を買いました
-permalink: /macbook113late2016/
+permalink: /macbookpro13late2016/
 ---
 まだ1日しか使ってないけど買って良かったです。
 
