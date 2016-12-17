@@ -44,6 +44,11 @@ Touch Bar,Touch IDは初物なのでAppleCareをつけといた。AppleCareを�
 * 軌跡の速さを最速に変更
 * ジェスチャのアプリケーションExposeにチェック : 3本指下スワイプでExpose
 
+### ディスプレイ設定
+* 解像度を1680x1050に変更
+* 輝度の自動調整をオフ
+* 壁紙を単色の暗い青系に変更
+
 ### 必須アプリのインストール
 * Alfred（AppStore） : ランチャー
 * 夜フクロウ（AppStore） : Twitterクライアント
