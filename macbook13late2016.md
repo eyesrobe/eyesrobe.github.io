@@ -3,16 +3,16 @@ layout: page
 title: Macbook Pro 13 (Late2016)を買いました
 permalink: /macbook113late2016/
 ---
-# 合計 268,596円（税込）
+## 合計 268,596円（税込）
 
 * 本体 218,800円（税別）
 
-## 本体以外に一緒に買ったもの
+### 本体以外に一緒に買ったもの
 * AppleCare Protection Plan 23,800円
 * USB-C - USBアダプタ 900円（セール価格）
 * USB-C Digital AV Multiportアダプタ 5,200円（セール価格）
 
-# スペック
+## スペック
 
 SSD512GB版にメモリ追加してUSキーボードに変更
 
@@ -26,31 +26,29 @@ SSD512GB版にメモリ追加してUSキーボードに変更
 
 Touch Bar,Touch IDは初物なのでAppleCareもつけといた。
 
-
-
-# 設定
+## 設定
 思いつくところの最低限の設定とアプリのインストール
 
-## US配列キーボードの設定
+### US配列キーボードの設定
 * 'capslock'キーを'control'キーに変更
 * IMEの切り替えをデフォルトoption+Spaceから、command+Spaceに変更
 * Spotlightの切り替えをcommand+Spaceから、option+Spaceに変更
 
-## IMEの設定
+### IMEの設定
 * 日本語のライブ変換をオフ（長文書くときだけオンにするか？）
-* →オフにしてみたけど、文章を書くにはオンにしておくと良いのかも。しばらくオンで使って様子見る。
+* →オフにしたけど、文章を書くにはオンにしておくと良いのかも。しばらくオンで使って様子見る。
 
-## トラックパッドの設定
+### トラックパッドの設定
 * 軌跡の速さを最速に変更
 * ジェスチャのアプリケーションExposeにチェック
 
-## 必須アプリのインストール
+### 必須アプリのインストール
 * Alfred（AppStore） : ランチャー
 * 夜フクロウ（AppStore） : Twitterクライアント
 * Atom : エディタ
 * AtomのSettingsでatomic-emacsをインストール : Emacsキーバインド
 
-## アプリのインストール
+### アプリのインストール
 * ForkLift（AppStore:有料） : ファイラー
 * Xcode
 * TouchBarで寿司を流してTouchBar付きモデルを買ったことに満足する（Xcodeでビルドが必要）
