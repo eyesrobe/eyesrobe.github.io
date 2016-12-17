@@ -19,7 +19,8 @@ permalink: /macbook113late2016/
 * SDカードリーダー Transcend TS-RDF5W 1,000円ぐらい（あきばお〜で購入）
 * → [http://amzn.to/2hFIm35](http://amzn.to/2hFIm35)
 * Satechi USB TypeC3.1外付けHDDケース 4,123円（Amazon）
-* → [http://amzn.to/2hJHWbw](http://amzn.to/2hJHWbw)
+* → [http://amzn.to/2hJHWbw](http://amzn.to/2hJHWbw) （2016.12.17現在、ゴールド以外はぼったくり価格）
+
 * SSD 750GB Crucial MX300 18,458（Amazon）
 * → [http://amzn.to/2gVXDOg](http://amzn.to/2gVXDOg)
 
