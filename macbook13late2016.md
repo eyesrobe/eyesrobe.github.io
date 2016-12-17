@@ -42,7 +42,7 @@ Touch Bar,Touch IDは初物なのでAppleCareをつけといた。AppleCareを�
 
 ### トラックパッドの設定
 * 軌跡の速さを最速に変更
-* ジェスチャのアプリケーションExposeにチェック
+* ジェスチャのアプリケーションExposeにチェック : 3本指下スワイプでExpose
 
 ### 必須アプリのインストール
 * Alfred（AppStore） : ランチャー
