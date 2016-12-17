@@ -16,7 +16,7 @@ permalink: /macbook113late2016/
 
 ## スペック
 
-SSD512GB版にメモリ追加してUSキーボードに変更
+SSD512GB版にメモリ追加してUSキーボードに変更しました。
 
 * Touch BarとTouch ID
 * 2.9GHzデュアルコアIntel Core i5プロセッサ（Turbo Boost使用時最大3.3GHz）
@@ -26,10 +26,10 @@ SSD512GB版にメモリ追加してUSキーボードに変更
 * Thunderbolt 3ポート x 4
 * バックライトキーボード (US) + 製品マニュアル（日本語）
 
-Touch Bar,Touch IDは初物なのでAppleCareもつけといた。
+Touch Bar,Touch IDは初物なのでAppleCareをつけといた。AppleCareを初めて購入した。
 
 ## 設定
-思いつくところの最低限の設定とアプリのインストール
+思いつくところの最低限の設定とアプリのインストールです。
 
 ### US配列キーボードの設定
 * 'capslock'キーを'control'キーに変更
@@ -61,4 +61,4 @@ Touch Bar,Touch IDは初物なのでAppleCareもつけといた。
 * → https://github.com/edihbrandon/RictyDiminished
 * → RictyDiminished-Regular.ttfとRictyDiminished-Bold.ttfをインストール
 * AtomのSettingsでFontFamilyをRictyDiminished-Regularに変更
-* EasyRes（AppStore:有料？）：ディスプレイ解像度変更（2560x1600に使いたい場合用）
+* EasyRes（AppStore:有料？）：ディスプレイ解像度変更（2560x1600で使いたい場合用）
