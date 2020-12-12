@@ -8,10 +8,14 @@ iOSアプリ作ってます。
 
 # アプリ
 
+* gFFutt4
+
+<!---
+* [Texttter](../textter/)
 * gFFutt
 * [Moneyha2](../moneyha2/)
 * Moneyha
-
+--->
 
 # Contact me
 
