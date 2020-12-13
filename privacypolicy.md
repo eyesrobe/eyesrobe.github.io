@@ -1,11 +1,8 @@
 ---
 layout: homepage
-title: Privasy Policy
+title: プライバシーポリシー
 permalink: /privacypolicy/
 ---
-
-プライバシーポリシー
-
 
 本プライバシーポリシーは、アプリケーションにおける利用者情報の取り扱いについて説明するものです。
 
