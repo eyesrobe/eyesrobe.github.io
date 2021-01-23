@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: プライバシーポリシー
-permalink: /privacypolicy/
+permalink: /privacypolicy2/
 ---
 
 本プライバシーポリシーは、アプリケーションにおける利用者情報の取り扱いについて説明するものです。
